@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Welcome to the CICdarknet2020 Dataset repository! This repository serves as a centralized resource for the CICdarknet2020 dataset, which is a comprehensive collection of network traffic captures for cybersecurity research and analysis.
+Note that this repo covers only a few parts of the whole projects. The repo gives an overview about the preprocessing part and feature selection. This final work that covers all the parts ( Data centric-part, Model-centric part) will be handed soon one the work is done and the **research paper** is sumbitted.
 
 ## About the Dataset
 
