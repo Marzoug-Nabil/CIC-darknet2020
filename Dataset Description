@@ -1,0 +1,4 @@
+In CICDarknet2020 dataset, a two-layered approach is used to generate benign and darknet traffic at the first layer. 
+The darknet traffic constitutes Audio-Stream, Browsing, Chat, Email, P2P, Transfer, Video-Stream and VOIP which is generated at the second layer. 
+To generate the representative dataset, we amalgamated our previously generated datasets, namely, ISCXTor2016 and ISCXVPN2016, and combined the respective VPN and Tor traffic in corresponding Darknet categories.
+
